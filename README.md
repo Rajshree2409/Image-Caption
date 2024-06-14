@@ -42,6 +42,4 @@ bash
 Copy code
 python show_instance.py --model [decoder] --image_file [file]
 
-<img src="./examples/4705276073_b32_h1024_l1_e10_lstm" width="400"/>
-<img src="./examples/4705276073_b32_h1024_l6_e10_gpt1" width="400"/>
 Select the model and the image file from your image directory to generate a caption.
