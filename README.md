@@ -43,8 +43,8 @@ Copy code
 python show_instance.py --model [decoder] --image_file [file]
 
 # Use Case
---> Some detailed usecases would be like an visually impaired person taking a picture from his phone and then the caption generator will turn the caption to speech for him to understand.
---> Advertising industry trying the generate captions automatically without the need to make them seperately during production and sales.
---> Doctors can use this technology to find tumors or some defects in the images or used by people for understanding geospatial images where they can find out more details about the terrain.
+* Some detailed usecases would be like an visually impaired person taking a picture from his phone and then the caption generator will turn the caption to speech for him to understand.
+*  Advertising industry trying the generate captions automatically without the need to make them seperately during production and sales.
+*   Doctors can use this technology to find tumors or some defects in the images or used by people for understanding geospatial images where they can find out more details about the terrain.
 
 Select the model and the image file from your image directory to generate a caption.
